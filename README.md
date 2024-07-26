@@ -13,3 +13,8 @@ the [github repository](https://github.com/srtj89/isheero_atut_2024_deep_learnin
     git clone https://github.com/srtj89/isheero_atut_2024_deep_learning_intro.git
 
 These notebooks only work with `keras and tensorflow`. It is only tested with [Google Colab](https://colab.google/).
+
+#### Lab and Home 1: Neural Networks and Backpropagation
+
+  - [Backpropagation in Neural Networks using Numpy](https://github.com/srtj89/isheero_atut_2024_deep_learning_intro/blob/main/labs/Backpropagation_numpy.ipynb)
+  - [Backpropagation using TensorFlow](https://github.com/srtj89/isheero_atut_2024_deep_learning_intro/blob/main/home_assignement/Backpropagation_tensorflow.ipynb)
