@@ -4,6 +4,6 @@ This course is being taught at as part of [ATUT-Isheero 2024 program](https://t.
 
 ## Table of contents
 
-The course covers the basics of Deep Learning, with a focus on applications.
+The course covers the basics of Deep Learning, with a focus on practice.
 
 ### Lab and Home Assignment Notebooks
